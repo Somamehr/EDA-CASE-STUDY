@@ -27,5 +27,7 @@ I performed a comprehensive exploratory data analysis on a dataset of a bank to 
 Using the dataset, I performed EDA to analyze the 5 most important factors using python:
 
 1. Which category of loan applications were highest?
-2. 
-3. 
+2. Which gender should be targeted?
+3. Occupational background of applicant?
+4. Age bracket of frequent loan applicants?
+5. Education and income level of loan applicants? 
